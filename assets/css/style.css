@@ -1,0 +1,89 @@
+.containerlogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+hr{
+    font-size: large;
+    color: brown;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+.containerkamelott span{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.containerpresentation hr{
+    font-size: small;
+    color: black;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.containerlogo img{
+    width: 10% ;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.containerpresentation{
+    background-color: rgb(235, 233, 233);
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 25px;
+}
+
+.containercreation span{
+    font-weight: bold;
+}
+
+.containerpresentation p{
+    text-align: justify;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.containersynopsis h2{
+    color: brown;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(235, 233, 233);
+    align-items: center;
+    height:40px;
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    color: brown;
+    font-weight: bold;
+}
+
+li:hover{
+    background-color: rgb(53, 52, 52) ;
+}
+
+footer p{
+    text-align: center;
+    background-color: rgb(235, 233, 233);
+    height: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
